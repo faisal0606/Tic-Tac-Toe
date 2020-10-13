@@ -13,15 +13,15 @@ Information Collection and Use
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 The app does use third party services that may collect information used to identify you.
 Link to privacy policy of third party service providers used by the app
-	Google Play Services
-	AdMob
-	Firebase Analytics
+Google Play Services
+AdMob
+Firebase Analytics
 Service Providers
 We may employ third-party companies and individuals due to the following reasons:
-	To facilitate our Service;
-	To provide the Service on our behalf;
-	To perform Service-related services; or
-	To assist us in analyzing how our Service is used.
+	To facilitate our Service;
+	To provide the Service on our behalf;
+	To perform Service-related services; or
+	To assist us in analyzing how our Service is used.
 
 
 
