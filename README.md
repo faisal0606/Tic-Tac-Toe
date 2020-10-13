@@ -1,4 +1,3 @@
-# Tic Tac Toe Privacy Policy
 
 We are an Android Developer Group trying to provide  apps and Utility tools to make day to day life easy.
 These apps are available for free to download from play store.
