@@ -9,16 +9,13 @@ Thank you for your understanding. Make sure to check our privacy policy frequent
 Information Collection and Use
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 The app does use third party services that may collect information used to identify you.
-Link to privacy policy of third party service providers used by the app
-Google Play Services<br/>
-AdMob<br/>
-Firebase Analytics<br/>
-Service Providers<br/>
+Link to privacy policy of third party service providers used by the app:<br/><br/>
+Google Play Services<br/><br/>
+AdMob<br/><br/>
+Firebase Analytics<br/><br/>
+Service Providers<br/><br/>
 We may employ third-party companies and individuals due to the following reasons:
-To facilitate our Service;<br/>
-To provide the Service on our behalf;<br/>
-To perform Service-related services; or<br/>
-To assist us in analyzing how our Service is used.
+To facilitate our Service to provide the Service on our behalf to perform Service-related services or to assist us in analyzing how our Service is used.
 
 
 
