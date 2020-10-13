@@ -3,8 +3,7 @@ We are an Android Developer Group trying to provide  apps and Utility tools to m
 These apps are available for free to download from play store.
 To monetise the app we use advertisement inside our app. 
 We personally do not take any information of our user but the Ad-network which we commonly use in our apps to monetise may fetch your information.
-The information fetch by ad-network might be useful to check and not to display the apps which are already installed in your mobile. 
-This app only user-friendly has been developed, there is no real form of giving or receiving any payment to anyone. This app is designed for the user's entertainment Purpose. We are not capable to give payment to any user. So, best of luck and let’s enjoy.
+The information fetch by ad-network might be useful to check and not to display the apps which are already installed in your mobile. This is a user friendly app and there is no real form of giving or receiving any payment to anyone.. This app is designed for the user's entertainment Purpose. We are not capable to give payment to any user. So, best of luck and let’s enjoy.
 Thank you for your understanding. Make sure to check our privacy policy frequently, since it is subjected to change, and your continued use of the site is conditional to your acceptance of any modifications here. You agree to the terms and conditions of this privacy policy.
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Scratch To Win cash unless otherwise defined in this Privacy Policy.
