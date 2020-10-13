@@ -6,8 +6,6 @@ We personally do not take any information of our user but the Ad-network which w
 The information fetch by ad-network might be useful to check and not to display the apps which are already installed in your mobile. This is a user friendly app and there is no real form of giving or receiving any payment to anyone.. This app is designed for the user's entertainment Purpose. We are not capable to give payment to any user. So, best of luck and let’s enjoy.
 Thank you for your understanding. Make sure to check our privacy policy frequently, since it is subjected to change, and your continued use of the site is conditional to your acceptance of any modifications here. You agree to the terms and conditions of this privacy policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Scratch To Win cash unless otherwise defined in this Privacy Policy.
-
 Information Collection and Use
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 The app does use third party services that may collect information used to identify you.
