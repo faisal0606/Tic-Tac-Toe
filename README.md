@@ -1,8 +1,8 @@
 
 We are an Android Developer Group trying to provide  apps and Utility tools to make day to day life easy.
 These apps are available for free to download from play store.
-To monetise the app we use advertisement inside our app. 
-We personally do not take any information of our user but the Ad-network which we commonly use in our apps to monetise may fetch your information.
+To Monetization the app we use advertisement inside our app. 
+We personally do not take any information of our user but the Ad-network which we commonly use in our apps to monetization may fetch your information.
 The information fetch by ad-network might be useful to check and not to display the apps which are already installed in your mobile. This is a user friendly app and there is no real form of giving or receiving any payment to anyone.. This app is designed for the user's entertainment Purpose. We are not capable to give payment to any user. So, best of luck and let’s enjoy.
 Thank you for your understanding. Make sure to check our privacy policy frequently, since it is subjected to change, and your continued use of the site is conditional to your acceptance of any modifications here. You agree to the terms and conditions of this privacy policy.
 
@@ -28,5 +28,5 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 
 Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us Muhammadfaisal0606@gmail.com
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us Muhammadfaisal0606@gmail.com.
 
